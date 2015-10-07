@@ -182,7 +182,7 @@ a,
 	transition: all 0.15s ease;
 }
 
-ul 	{ margin:0; padding:0; }
+ul 	{ margin:0; padding:0; margin-bottom: 1rem; }
 li	{ list-style-type:circle; list-style-position:inside; }
 
 /* Line Height */
@@ -233,9 +233,10 @@ em, i { font-style: italic; }
 }
 
 .post h2 {
-	margin-bottom: 40px;
+		margin-bottom: 0.6rem;
 	  font: 300 24px/1.5 "Helvetica Neue",Helvetica,Arial,sans-serif;
 	  color: #111;
+	  margin-top: 2rem;
 }
 
 
@@ -246,7 +247,7 @@ em, i { font-style: italic; }
 	color: #b2b9be;
 	  font-size: 13px;
 	  text-transform: uppercase;
-	  letter-spacing: 2px;
+	  letter-spacing: 1px;
 	  /*margin-top: 15px;*/
 	  display: inline-block;
 }
