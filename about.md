@@ -13,7 +13,7 @@ At present I am in the final year of my college. Tons of memories to reflect upo
 Knows Python, PHP, Node.js and C. Preference is Python and C.
 
 
-I learn on purpose and consider myself comfortable with Product Development for Web, Mobile.
+I learn on purpose and consider myself comfortable with Product Development for Web and Mobile.
 
 Design enthusiast and critic.
 
